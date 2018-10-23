@@ -15,11 +15,11 @@ It becomes really difficult for the residents or roommates to keep a track of al
 
 Here is where Roomie Sync comes into picture. Roomie Sync provides an Unified Endpoint Management for all the common utility services. It is a platform and a single pane of glass for all these services. Residents living in the same apartment will Sign up for a same account on Roomie Sync and will add all the common services to this tool, that they subscribe to.
 
-All residents will have a single view of all these services. A single account will cater to a group of all the residents living together. 
+All residents will have a single view of all these services. A single account will cater to a group of all the residents living together.
 
-As all portals/services will be listed in the same view, the authorized users can easily navigate to these portals without having to remember or bookmark them. 
+As all portals/services will be listed in the same view, the authorized users can easily navigate to these portals without having to remember or bookmark them.
 
-Members of the group will get consolidated notifications and reminders from the tool about upcoming bill payment deadlines of the services that have been added to this tool. Roomie Sync will maintain a history and will keep a track of all details of the goods or groceries ordered in the previous months so that the users don’t have to remember the monthly stuff that they order in common. 
+Members of the group will get consolidated notifications and reminders from the tool about upcoming bill payment deadlines of the services that have been added to this tool. Roomie Sync will maintain a history and will keep a track of all details of the goods or groceries ordered in the previous months so that the users don’t have to remember the monthly stuff that they order in common.
 
 Roomie Sync will also provide easily configurable, flexible dashboards so users can see the information they need the way they need to see it (graphs, calenders, alerts, etc.), and users can quickly set it up.
 
@@ -38,4 +38,16 @@ These days, as the electric scooters are taking off in our society the problem o
 
 We will make use of GPS to find location and the direction of the scooter. The scooter will be locked only when this direction is parallel to the street it's on. As parking perpendicular to the street causes blockage on the footpath.
 
+-------------------------------------------------------------------------------------------------------
 
+Project Title :
+
+**Data Transmission through Light (Li-Fi)**
+
+Project description
+
+Li-Fi can be considered as a light-based Wi-Fi. It uses light instead of radio waves to transmit information. Li-Fi is transmission of data using illumination i.e. sending data through an LED lamp that varies intensity of light faster than what human eye can perceive. The merits of Li-fi to that of Wi-fi are that High data transmission rates of up to 10Gbps can be achieved, since light cannot penetrate walls, it provides privacy and security that Wi-Fi cannot, Li-Fi has low implementation and maintenance costs and unlike Wi-Fi, Li-Fi emits no radiation.
+
+We propose a system which contains a combination of multiple Light emitting diode and a photovoltaic cell which will be used to transmit and receive data respectively. As Li-Fi works in light spectrum bandwidth is greater and the speeds is much larger. Our proposed system aims to send data such as music(sound), pictures, textual data through the light spectrum.
+
+The applications of the system is best suited for indoor large data hungry establishments like colleges, offices, factories and hospitals. Radio waves do not work underwater, Li-Fi do.
