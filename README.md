@@ -18,7 +18,8 @@ We will make use of GPS to find location and the direction of the scooter. The s
 -------------------------------------------------------------------------------------------------------
 
 Project Title :
-**Data Transmission through Light (Li-Fi)**
+**Data Transmission through Light (Li-Fi)**   - APPROVED
+comment: which use case will you use to demonstrate this technology implementation? Has to be a practical one that is easy to understand and consume. 
 
 Project description
 
