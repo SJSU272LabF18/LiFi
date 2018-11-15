@@ -47,6 +47,9 @@ Here John a visitor rents a device enabled with lifi receiver at the start of th
 
 			Existing Audio Guide machines in most museums.
 			
+			
+			
+			
 
 ![GitHub Webhook](./images/museum2.png)
 
