@@ -3,7 +3,7 @@
 Student Names: Sharwari Phadnis, Akash Alurkar, Aniket Deshpande, Rajas Tulpule
 
 Project Title :
-**Data Transmission through Light (Li-Fi)**   - APPROVED
+**Lumino: Location Based Data Ingestion using Li-Fi**   - APPROVED
 comment: which use case will you use to demonstrate this technology implementation? Has to be a practical one that is easy to understand and consume. 
 
 Project description
@@ -39,8 +39,10 @@ Here John a visitor rents a device enabled with lifi receiver at the start of th
 
 
 
+------------------------------------------------------------------------------------------------------------------------------
 
 
+### **Smart Guide For The Visually Impaired using Li-Fi Technology**
 
 
 
