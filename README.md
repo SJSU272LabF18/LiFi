@@ -47,13 +47,24 @@ Here John a visitor rents a device enabled with lifi receiver at the start of th
 In this Use case we are focussed on a solution for visually impaired people by providing an Audio guide to assist them 
 while walking and navigating from one place to another.
 
-We have leveraged Li-Fi technology to come with a system, that will notify a visually impaired person about the obstacles ahead of them walking in a room enabled with Li-Fi enabled lights.
+We have leveraged Li-Fi technology to come with a system, that will notify a visually impaired person about the obstacles ahead of them, while walking in a room enabled with Li-Fi enabled lights.
 
 
 ------------------------------------------------------------------------------------------------------------------------------
 
 ### Lumino System Views
 
+This System has been implemented and tested using **_only_** hardware components such as:
+
+- Breadboard x2
+- LED x8
+- Resister 100ohm x2
+- Wires 
+- Battery pack
+- Speaker
+- Solar cell x1
+- Audio device
+- Audio jack
 
 ![GitHub Webhook](./images/lifi_setup.jpg)
 
