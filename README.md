@@ -54,6 +54,17 @@ We have leveraged Li-Fi technology to come with a system, that will notify a vis
 
 ### Lumino System Views
 
+This System has been implemented and tested using **_only_** hardware components(**no software implementation**) such as:
+
+- Breadboard x2
+- LED x8
+- Resister 100ohm x2
+- Wires 
+- Battery pack
+- Speaker
+- Solar cell x1
+- Audio device
+- Audio jack
 
 ![GitHub Webhook](./images/lifi_setup.jpg)
 
