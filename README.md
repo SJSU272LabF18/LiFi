@@ -50,14 +50,21 @@ while walking and navigating from one place to another.
 We have leveraged Li-Fi technology to come with a system, that will notify a visually impaired person about the obstacles ahead of them walking in a room enabled with Li-Fi enabled lights.
 
 
+------------------------------------------------------------------------------------------------------------------------------
+
+### Lumino System Views
+
+
+![GitHub Webhook](./images/lifi_setup.jpg)
+
+Receiver Side Circuit
 
 
 
 
+![GitHub Webhook](./images/lifi_setup_2.jpg)
 
-
-
-
+Complete Li-Fi System
 
 
 
