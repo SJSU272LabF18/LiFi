@@ -54,7 +54,7 @@ We have leveraged Li-Fi technology to come with a system, that will notify a vis
 
 ### Lumino System Views
 
-This System has been implemented and tested using **_only_** hardware components(**no software implementation**) such as:
+This System has been implemented and tested using **_only_** hardware components such as:
 
 - Breadboard x2
 - LED x8
