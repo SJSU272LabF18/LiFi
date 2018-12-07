@@ -17,7 +17,7 @@ The applications of the system is best suited for indoor large data hungry estab
 ------------------------------------------------------------------------------------------------------------------------------
 
 
-### **Museum Enhanced Experience with Li-Fi**
+### **Use Case: Museum Enhanced Experience with Li-Fi**
 
 This use case is specifically aimed to make the museum tour experience more fun and interactive with li-fi for first-time museum goers, children and the elderly to have a superior museum experience. The individual light fixtures at each exhibit deliver information about each individual light exhibit. This positioning grid system with built-in lifi in the light bulbs itself can deliver targeted information to the customer. Here a visitor when visiting a specific exhibit and just point the device at the light source and the audio-visual information about the exhibit is displayed on his device which he rented from the museum. The beauty of this technology is that it will replace the old and drab existing devices to deliver knowledge in the museum. This technology can also be gelled with the new emerging ‘Augmented Reality Museums’2 popping up in the world Using lifi in this use case can provide an energy efficient method for the museums to deliver information right at the user’s fingertips making museum visit a simple, approachable and fun experience rather than just listening to the information.
 
@@ -42,9 +42,12 @@ Here John a visitor rents a device enabled with lifi receiver at the start of th
 ------------------------------------------------------------------------------------------------------------------------------
 
 
-### **Smart Guide For The Visually Impaired using Li-Fi Technology**
+### **Use Case: Smart Guide For The Visually Impaired using Li-Fi Technology**
 
+In this Use case we are focussed on a solution for visually impaired people by providing an Audio guide to assist them 
+while walking and navigating from one place to another.
 
+We have leveraged Li-Fi technology to come with a system, that will notify a visually impaired person about the obstacles ahead of them walking in a room enabled with Li-Fi enabled lights.
 
 
 
